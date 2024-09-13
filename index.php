@@ -26,7 +26,7 @@
 <body>
     
     <div class="homeheader">
-        <h2>Home Page</h2>
+        <h2>ข้าวแกง</h2>
     </div>
 
     <div class="homecontent">
